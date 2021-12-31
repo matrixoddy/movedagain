@@ -1,0 +1,9 @@
+return 
+{
+WoodRUs = 7,
+FurnitureStore = 8,
+FineArt = 11,
+CarStore = 9,
+LogicStore = 12,
+ShackShop = 10
+}
