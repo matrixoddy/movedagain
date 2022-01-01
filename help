@@ -1,0 +1,8 @@
+
+_G.flytext = "Keys `W` = Forward, `S` = Backwards, `A` = Left `D` = Right, Or use the Mouse and `W`. Fly Speed:- Makes you fly faster, Use reset to fly normal."
+_G.Translater = "[TR] To send messages in a language, say `>` followed by the target language/language code, e.g.: `>ru` or `>russian`. To disable (go back to original language), say `>d"
+_G.Spy = "Type in chat `/spy` to turn off"
+_G.Emoji = "This can not be reset the only way is to re-join the game. Emoji list will be found on the discord server"
+_G.Grief = "To turn off Grief, Just reset character"
+_G.throw = "Put A AXE in your hand aim at anything you like with your mouse an press `T` on your keyboard."
+_G.Clicktp = "Click on the tp tool button, Then click on The (TP Tool button of your game),\n With your mouse click any ware on the map and you will teleport to that spot.."
